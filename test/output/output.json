@@ -1,0 +1,1 @@
+[{"File": "access.log", "MostFrequentIP": "10.105.21.10", "LeastFrequentIP": "66.250.114.252", "EventsPerSecond": -0.013436166007202509, "TotalAmountsBytesExchanged": 3631502923}, {"File": "access_1.log", "MostFrequentIP": "10.105.21.10", "LeastFrequentIP": "66.250.114.252", "EventsPerSecond": -0.013436166007202509, "TotalAmountsBytesExchanged": 3631502923}]
